@@ -6,8 +6,7 @@ public class Main {
 
         final double maxSpeed = 120;
         System.out.println("max speed: " + maxSpeed);
-        int num = 10;
-        num = 12;
+        int num =  10;
         System.out.println("num = " + num);
         boolean isRain = false;
         System.out.println("isRain = " + isRain);
