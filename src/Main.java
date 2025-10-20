@@ -11,7 +11,7 @@ public class Main {
         System.out.println("num = " + num);
         boolean isRain = false;
         System.out.println("isRain = " + isRain);
-        char
+
 
     }
 }
